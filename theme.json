@@ -13,7 +13,7 @@
     "border_color": ["#121111", "#141414"]
   },
   "CTkTabview": {
-    "corner_radius": 6,
+    "corner_radius": 6
   },
   "CTkButton": {
     "corner_radius": 3,
