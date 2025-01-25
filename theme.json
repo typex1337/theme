@@ -94,7 +94,7 @@
     "text_color_disabled": ["gray74", "gray60"]
   },
   "CTkComboBox": {
-    "corner_radius": 8,
+    "corner_radius": 5,
     "border_width": 1,
     "fg_color": ["#141414", "#141414"],
     "border_color": ["#141414", "#141414"],
@@ -111,7 +111,7 @@
     "button_hover_color": ["gray40", "gray53"]
   },
   "CTkSegmentedButton": {
-    "corner_radius": 3,
+    "corner_radius": 6,
     "border_width": 2,
     "fg_color": ["#141414", "#141414"],
     "selected_color": ["#0004ff", "#0004ff"],
