@@ -15,7 +15,7 @@
   "CTkButton": {
     "corner_radius": 4,
     "border_width": 0,
-    "fg_color": ["#0004ff", "#1c1e9c"],
+    "fg_color": ["#ffffff", "#1c1e9c"],
     "hover_color": ["#212ddb", "#212ddb"],
     "border_color": ["#141414", "#949A9F"],
     "text_color": ["#DCE4EE", "#DCE4EE"],
