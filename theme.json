@@ -97,7 +97,7 @@
     "border_color": ["#141414", "#141414"],
     "button_color": ["#0004ff", "#0e10c2"],
     "button_hover_color": ["#212ddb", "#212ddb"],
-    "text_color": ["#111111", "#111111"],
+    "text_color": ["#ffffff", "#ffffff"],
     "text_color_disabled": ["gray50", "gray45"]
   },
   "CTkScrollbar": {
