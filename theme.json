@@ -12,9 +12,6 @@
     "top_fg_color": ["#141414", "#141414"],
     "border_color": ["#121111", "#141414"]
   },
-  "CTkTabview": {
-    "corner_radius": 6
-  },
   "CTkButton": {
     "corner_radius": 3,
     "border_width": 0,
