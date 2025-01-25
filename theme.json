@@ -24,7 +24,7 @@
   "CTkLabel": {
     "corner_radius": 0,
     "fg_color": "transparent",
-    "text_color": ["", ""]
+    "text_color": ["#ffffff", "#ffffff"]
   },
   "CTkEntry": {
     "corner_radius": 6,
